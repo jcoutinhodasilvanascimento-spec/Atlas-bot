@@ -1,17 +1,16 @@
+
 # 🤖 Atlas Bot
 
 ## 📌 About the project
-Atlas Bot is a Java project created to train programming and user interaction.
+Atlas Bot is a Java system created to interact with the user through commands and questions.
 
 ## ⚙️ Features
-- Question system
-- Interactive commands
+- User interaction
+- Command system
 - Basic operations
 
-## 🧠 What I learned
-- Use of functions in Java
-- Conditional structures (if/else)
-- Data input with Scanner
+## 🧠 Objective
+This project is part of my programming learning and evolution as a developer.
 
 ## 🛠️ Technologies used
 - Java
@@ -19,9 +18,9 @@ Atlas Bot is a Java project created to train programming and user interaction.
 ## ▶️ How to run
 1. Compile the code
 2. Run the program
-3. Interact via the terminal
+3. Use the commands in the terminal
 
 ## 📈 Future improvements
-- Improve code organization
-- Add new functions
-- Create a smarter system
+- Create more commands
+- Improve code structure
+- Evolve into a smarter bot
